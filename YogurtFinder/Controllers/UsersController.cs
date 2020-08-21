@@ -5,7 +5,7 @@ using YogurtFinder.Entities;
 
 namespace YogurtFinder.Controllers
 {
-  [Authorize]
+//   [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class UsersController : ControllerBase
